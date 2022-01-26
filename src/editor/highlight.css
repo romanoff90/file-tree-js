@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300,400,500,600&display=swap');
+
+code.hljs {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #999999;
+}
+
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+  color: #999;
+}
+
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+  color: #fbcc43;
+}
+
+.hljs-attribute {
+  color: #f69935;
+}
+
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+  color: #a8a5f3;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #5bc266;
+}
+
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #64d2ff;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #151515;
+  color: #fff;
+  padding: 0.5em;
+  font-size: 0, 6875rem;
+  line-height: 1.75rem;
+  font-weight: 200;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
